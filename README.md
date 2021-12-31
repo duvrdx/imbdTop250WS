@@ -17,7 +17,7 @@ Instale os pacotes necessários:
 ```sh
 $ pip install -r app\requirements.txt
 ```
-Execute o arquivo main.py, aguarde alguns segundos e será gerado uma planilha XLSX e um arquvio CSV com as informações.
+Execute o arquivo main.py, aguarde alguns segundos e será gerada uma planilha XLSX e um arquivo CSV com as informações.
 
 ### License
 MIT
