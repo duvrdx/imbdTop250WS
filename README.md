@@ -15,7 +15,7 @@ Antes de comerçar, verifique se você atende os seguintes requisitos:
 ## 💻 Running
 Instale os pacotes necessários:
 ```sh
-$ pip intall -r app\requirements.txt
+$ pip install -r app\requirements.txt
 ```
 Execute o arquivo main.py, aguarde alguns segundos e será gerado uma planilha XLSX e um arquvio CSV com as informações.
 
